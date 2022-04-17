@@ -1,0 +1,18 @@
+.btn{
+    width: 100px;
+    height: 80px;
+    background-color: aqua;
+    display: inline-block;
+    border-radius:20px;
+    font-size: 30px;
+    color: darkslategray;
+    text-align: center;
+
+
+
+}
+.disabled{
+    color: grey;
+    background-color: lightblue;
+
+}
